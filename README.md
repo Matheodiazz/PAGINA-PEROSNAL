@@ -31,7 +31,7 @@ gen.jpg" alt="Foto de [Tu Nombre]" style="width: 150px; border-radius: 50%; disp
         <h2>Contacto</h2>
         <p>Puedes ponerte en contacto conmigo a través de:</p>
         <ul>
-            <li>Email: <a href="mailto:matdiaztello@gmail.com.com">tuemail@example.com</a></li>
+            <li>Email: <a href="mailto:matdiaztello@gmail.com.com"
             <li>LinkedIn: <a href="https://linkedin.com/in/tuusuario" target="_blank">linkedin.com/in/tuusuario</a></li>
             <li>GitHub: <a href="https://github.com/tuusuario" target="_blank">github.com/tuusuario</a></li>
         </ul>
