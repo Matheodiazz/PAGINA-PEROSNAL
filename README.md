@@ -1,6 +1,7 @@
 <section id="about">
     <h2>Sobre mí</h2>
-    <img src="tu-imagen.jpg" alt="Foto de [Tu Nombre]" style="width: 150px; border-radius: 50%; display: block; margin: 1rem auto;">
+    <img src="tu-ima![WhatsApp Image 2024-11-03 at 19 38 32](https://github.com/user-attachments/assets/42c0a309-6c93-4a38-9e23-e87be9514e15)
+gen.jpg" alt="Foto de [Tu Nombre]" style="width: 150px; border-radius: 50%; display: block; margin: 1rem auto;">
     <p>Hola, soy [Tu Nombre], estudiante de Ingeniería Industrial...</p>
 </section>
 </head>
