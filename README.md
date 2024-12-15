@@ -1,4 +1,8 @@
-
+<section id="about">
+    <h2>Sobre mí</h2>
+    <img src="tu-imagen.jpg" alt="Foto de [Tu Nombre]" style="width: 150px; border-radius: 50%; display: block; margin: 1rem auto;">
+    <p>Hola, soy [Tu Nombre], estudiante de Ingeniería Industrial...</p>
+</section>
 </head>
 <body>
     <header>
